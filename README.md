@@ -17,7 +17,7 @@ The Story Generator is a Python script that creates random stories by combining 
 - Random Story Generation: Creates diverse stories by randomly selecting elements from predefined lists.
 - Easy Customization: Users can easily customize stories by adding or modifying elements in the lists.
 
-## Project Name: YouTube to MP3 Converter
+## Project 3 - YouTube to MP3 Converter
 ### Overview
 The YouTube to MP3 Converter is a Python script that allows users to download audio from YouTube videos and save it as an MP3 file. The script prompts users to input a YouTube video URL and choose the save location for the MP3 file. It then downloads the audio from the video and converts it to MP3 format.
 
